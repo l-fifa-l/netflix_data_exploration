@@ -1,8 +1,3 @@
-# Netflix Data Exploration
-
-https://www.kaggle.com/code/vivekfifa/netflix-shows-data-analysis
-
-https://public.tableau.com/app/profile/vivek.kumar5704/viz/Netflix_16989935262120/Netflix
 # Netflix Data Exploration with Python and Tableau
 
 ## Overview
